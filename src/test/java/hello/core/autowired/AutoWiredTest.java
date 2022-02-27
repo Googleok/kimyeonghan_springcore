@@ -34,8 +34,5 @@ public class AutoWiredTest {
             System.out.println("noBean3 = " + noBean3);
         }
 
-
     }
-
-
 }
